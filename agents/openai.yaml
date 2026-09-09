@@ -1,6 +1,6 @@
 interface:
   display_name: "潮流扁平角色插画 · Flat Pop Character"
-  short_description: "结合埃及女王、荷叶伞姑娘、蓝衣少年及五张原图，按主题与配色生成潮流角色插画"
+  short_description: "结合女王、荷叶伞姑娘、蓝衣少年、女巫等八张参考，按主题与配色生成潮流角色插画"
   icon_large: "./assets/preview.png"
   default_prompt: "使用 $artifact-template-flat-pop-character 创作一幅角色插画；从我的描述确定主题、人物造型、主色和次色，只询问缺失项。"
 policy:
